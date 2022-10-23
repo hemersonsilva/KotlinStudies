@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84042b58-81b5-4450-bcee-8384755a8d25" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DoubleArrayStudies.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/IntArrayStudies.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="84042b58-81b5-4450-bcee-8384755a8d25" name="Changes" comment="introdução arrays">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ranges.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/IntArrayStudies.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/IntArrayStudies.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -44,7 +44,7 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.DoubleArrayStudiesKt">
+  <component name="RunManager" selected="Kotlin.RangesKt">
     <configuration name="DoubleArrayStudiesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DoubleArrayStudiesKt" />
       <module name="KotlinStudies" />
@@ -66,11 +66,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RangesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RangesKt" />
+      <module name="KotlinStudies" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.DoubleArrayStudiesKt" />
+        <item itemvalue="Kotlin.RangesKt" />
         <item itemvalue="Kotlin.IntArrayStudiesKt" />
         <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.DoubleArrayStudiesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -90,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666449427512</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="introdução arrays">
+      <created>1666452151115</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666452151115</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +121,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="introdução arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="introdução arrays" />
   </component>
 </project>
